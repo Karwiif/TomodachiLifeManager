@@ -1,0 +1,369 @@
+{
+  "residentes": [
+    {
+      "nombre": "Kira Yoshikage",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Jotaro Kujo",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Karwif",
+      "categoria": "General",
+      "hecho": false
+    },
+    {
+      "nombre": "Hiromi Higuruma",
+      "categoria": "Jujutsu Kaisen",
+      "hecho": false
+    },
+    {
+      "nombre": "Phoenix Wright",
+      "categoria": "Ace Attorney",
+      "hecho": false
+    },
+    {
+      "nombre": "Miles Edgeworth",
+      "categoria": "Ace Attorney",
+      "hecho": false
+    },
+    {
+      "nombre": "Johnny Joestar",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Gyro Zeppeli",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Klavier",
+      "categoria": "Ace Attorney",
+      "hecho": false
+    },
+    {
+      "nombre": "Kaito",
+      "categoria": "Vocaloid",
+      "hecho": false
+    },
+    {
+      "nombre": "Gakupo",
+      "categoria": "Vocaloid",
+      "hecho": false
+    },
+    {
+      "nombre": "Apollo",
+      "categoria": "Ace Attorney",
+      "hecho": false
+    },
+    {
+      "nombre": "Mia Fey",
+      "categoria": "Ace Attorney",
+      "hecho": false
+    },
+    {
+      "nombre": "Godot",
+      "categoria": "Ace Attorney",
+      "hecho": false
+    },
+    {
+      "nombre": "Dante",
+      "categoria": "DMC",
+      "hecho": false
+    },
+    {
+      "nombre": "Vergil",
+      "categoria": "DMC",
+      "hecho": false
+    },
+    {
+      "nombre": "Aventurine",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Dr Ratio",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Leon Kennedy",
+      "categoria": "Resident Evil",
+      "hecho": false
+    },
+    {
+      "nombre": "Wesker",
+      "categoria": "Resident Evil",
+      "hecho": false
+    },
+    {
+      "nombre": "Diego Brando",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Diavolo",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Noriaki Kakyoin",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Argenti",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Boothill",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Kaveh",
+      "categoria": "Genshin",
+      "hecho": false
+    },
+    {
+      "nombre": "Alhaitham",
+      "categoria": "Genshin",
+      "hecho": false
+    },
+    {
+      "nombre": "Ada Wong",
+      "categoria": "Resident Evil",
+      "hecho": false
+    },
+    {
+      "nombre": "Neuvillette",
+      "categoria": "Genshin",
+      "hecho": false
+    },
+    {
+      "nombre": "Wriothesley",
+      "categoria": "Genshin",
+      "hecho": false
+    },
+    {
+      "nombre": "Theodore",
+      "categoria": "Persona 3",
+      "hecho": false
+    },
+    {
+      "nombre": "Elisabeth",
+      "categoria": "Persona 3",
+      "hecho": false
+    },
+    {
+      "nombre": "Funny Valentine",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Josuke 8",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Yasuho",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Rohan",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Xie Lian",
+      "categoria": "TGCF",
+      "hecho": false
+    },
+    {
+      "nombre": "Hua Cheng",
+      "categoria": "TGCF",
+      "hecho": false
+    },
+    {
+      "nombre": "Ren Amamiya",
+      "categoria": "Persona 5",
+      "hecho": false
+    },
+    {
+      "nombre": "Akechi Goro",
+      "categoria": "Persona 5",
+      "hecho": false
+    },
+    {
+      "nombre": "Bruno Bucciarati",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Leone Abbacchio",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Giorno Giovanna",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Guido Mista",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Joseph Joestar",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Caesar Zeppeli",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Jolyne Cujoh",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Narciso Anasui",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Pucci",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Dio Brando",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Eiden",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Kuya",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Olivine",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Edmond",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Quincy",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Rei",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Phainon",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Mydei",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Jiaoqiu",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Moze",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Sunday",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Galagher",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Sampo",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Gepard",
+      "categoria": "Honkai Star Rail",
+      "hecho": false
+    },
+    {
+      "nombre": "Paco Laburantes",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Charming Man",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Jodio Joestar",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Dragona Joestar",
+      "categoria": "JJBA",
+      "hecho": false
+    },
+    {
+      "nombre": "Yakumo",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    },
+    {
+      "nombre": "Dante",
+      "categoria": "Nu: Carnival",
+      "hecho": false
+    }
+  ],
+  "categorias": [
+    "General",
+    "JJBA",
+    "Jujutsu Kaisen",
+    "Vocaloid",
+    "Ace Attorney",
+    "DMC",
+    "Honkai Star Rail",
+    "Resident Evil",
+    "Genshin",
+    "Persona 3",
+    "TGCF",
+    "Persona 5",
+    "Nu: Carnival"
+  ]
+}

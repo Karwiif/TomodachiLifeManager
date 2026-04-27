@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tomodachi Life Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <div id="pantalla-inicio">
+        <h1>🏝️ Tomodachi Manager</h1>
+        <p>Organize your island residents (Limit: 70)</p>
+        <div class="menu-inicial"></div>
+    </div>
+
+    <div id="pantalla-gestion" style="display: none;">
+        <header>
+            <button class="btn-volver" onclick="window.location.reload()">⬅ Exit</button>
+            <div style="display: flex; align-items: center; gap: 10px;">
+                <h1 id="nombre-isla-titulo" style="margin: 0; font-size: 1.5em;">My Island</h1>
+                <button onclick="renombrarIsla()" class="btn-edit" style="padding: 5px 10px; font-style: normal;" title="Rename island">✎</button>
+            </div>
+            <button onclick="exportarJSON()" class="btn-edit" style="background-color: #2980b9;">Export JSON</button>
+        </header>
+
+        <div class="stats">
+            <strong>Residents:</strong> <span id="contador">0</span> / 70
+            <div class="progress-container">
+                <div id="barra-progreso" class="progress-bar"></div>
+            </div>
+            <p id="mensaje-error" class="warning"></p>
+        </div>
+
+        <div class="panel-control">
+            <div class="inputs">
+                <input type="text" id="nombreMii" placeholder="Mii Name">
+                <select id="selectCategoria"></select>
+                <button class="btn-add" onclick="añadirResidente()">Add Mii</button>
+            </div>
+            <div class="inputs">
+                <input type="text" id="nuevaCatNombre" placeholder="New series/category...">
+                <button onclick="crearCategoria()">+ Category</button>
+            </div>
+        </div>
+
+        <div class="pantalla-dividida">
+            <div class="columna">
+                <h2>Planned</h2>
+                <div id="listaPlanificados"></div>
+            </div>
+            <div class="columna">
+                <h2>Finished</h2>
+                <div id="listaHechos"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
